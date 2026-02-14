@@ -1,0 +1,11 @@
+﻿opportunity_id,account_name,deal_value,stage,probability,forecast_category,days_in_stage,close_date,created_date,last_modified_date,owner_role,industry
+OPP-001,Apex Utilities,750000,Negotiation,40,Omitted,68,31/03/2026,01/06/2025,10/01/2026,Sales Manager,Utilities
+OPP-002,Orion Defence,2200000,Proposal,55,Best Case,45,15/04/2026,10/07/2025,25/01/2026,Account Executive,Defence
+OPP-003,Nova Tech,180000,Qualification,20,Omitted,30,01/06/2026,01/12/2025,01/02/2026,Sales Rep,Technology
+OPP-004,Helios Energy,1250000,Negotiation,70,Commit,82,28/02/2026,15/05/2025,05/01/2026,Sales Director,Energy
+OPP-005,Atlas Secure,3100000,Proposal,50,Best Case,95,30/05/2026,01/04/2025,15/01/2026,Sales Director,Defence
+OPP-006,Zenith Services,420000,Closed Won,100,Commit,10,15/01/2026,01/11/2025,15/01/2026,Sales Rep,Professional Services
+OPP-007,Vertex Systems,980000,Negotiation,35,Omitted,110,20/03/2026,01/03/2025,20/12/2025,Account Executive,Technology
+OPP-008,Polaris Group,560000,Proposal,60,Best Case,52,10/04/2026,10/09/2025,30/01/2026,Sales Manager,Manufacturing
+OPP-009,Stratos Defence,4100000,Negotiation,65,Commit,130,15/02/2026,20/01/2025,02/01/2026,Sales Director,Defence
+OPP-010,Lumen Utilities,890000,Proposal,45,Omitted,75,01/05/2026,30/06/2025,28/12/2025,Account Executive,Utilities
